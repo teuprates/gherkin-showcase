@@ -10,7 +10,7 @@ export const Hero = () => {
           {/* Left Side - Text Content */}
           <div className="space-y-6">
             <div className="space-y-2">
-              <p className="text-muted-foreground text-lg">Hello, I'm</p>
+              <p className="text-muted-foreground text-lg">Olá, sou</p>
               <h1 className="text-5xl lg:text-6xl font-bold text-foreground">
                 LUIS ALBERTO
                 <br />
@@ -33,7 +33,7 @@ export const Hero = () => {
               }}
             >
               <Download className="w-4 h-4" />
-              Download Resume
+              Download Currículo
             </Button>
 
             <div className="flex gap-4 pt-4">

@@ -17,31 +17,31 @@ export const Navigation = () => {
               onClick={() => scrollToSection('home')}
               className="text-muted-foreground hover:text-primary transition-colors"
             >
-              home
+              início
             </button>
             <button 
               onClick={() => scrollToSection('about')}
               className="text-muted-foreground hover:text-primary transition-colors"
             >
-              about me
+              sobre mim
             </button>
             <button 
               onClick={() => scrollToSection('skills')}
               className="text-muted-foreground hover:text-primary transition-colors"
             >
-              skills
+              habilidades
             </button>
             <button 
               onClick={() => scrollToSection('projects')}
               className="text-muted-foreground hover:text-primary transition-colors"
             >
-              projects
+              projetos
             </button>
             <button 
               onClick={() => scrollToSection('contact')}
               className="text-muted-foreground hover:text-primary transition-colors"
             >
-              contact
+              contato
             </button>
           </div>
         </div>

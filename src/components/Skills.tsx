@@ -25,7 +25,7 @@ export const Skills = () => {
     <section id="skills" className="py-20 px-6 bg-secondary/30">
       <div className="max-w-5xl mx-auto">
         <h2 className="text-4xl font-bold text-primary mb-16 text-center">
-          Skills & Expertise
+          Habilidades & Especialidades
         </h2>
         
         <div className="grid md:grid-cols-2 gap-12">

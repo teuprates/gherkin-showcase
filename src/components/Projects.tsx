@@ -29,7 +29,7 @@ export const Projects = () => {
     <section id="projects" className="py-20 px-6">
       <div className="max-w-5xl mx-auto">
         <h2 className="text-4xl font-bold text-primary mb-16 text-center">
-          Featured Projects
+          Projetos em Destaque
         </h2>
         
         <div className="grid lg:grid-cols-2 gap-12 items-start">
